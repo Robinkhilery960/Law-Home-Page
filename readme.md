@@ -14,7 +14,7 @@ Learnt  about `DOM Structure`  and effective implementation of `background` prop
  
 
 ## Deployed Link
- [click here to see deployed version](https://street-style-link.netlify.app/ "Click to Visit Link") 
+ [click here to see deployed version](  https://law-home-page-link.netlify.app/ "Click to Visit Link") 
 
 
 ## Screenshots
